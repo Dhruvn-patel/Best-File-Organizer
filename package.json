@@ -1,0 +1,17 @@
+{
+  "name": "fileorgainer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"nodejs\""
+  ],
+  "author": "\"dhruv\"",
+  "license": "ISC",
+  "bin": {
+    "pepp": "main.js"
+  }
+}
