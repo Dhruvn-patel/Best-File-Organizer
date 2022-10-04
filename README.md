@@ -1,10 +1,11 @@
 # Best-File-Organizer
 
-List of commands:
+List of commands :
 
-  node main.js tree "directoryPath"
-  node main.js organize "directoryPath"
-  node main.js help
+
+  ->node main.js tree "directoryPath"
+  ->node main.js organize "directoryPath"
+  ->node main.js help
   
   
   
